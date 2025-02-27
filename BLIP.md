@@ -1,0 +1,1 @@
+# [BLIP: Bootstrapping Language-Image Pre-training for  Unified Vision-Language Understanding and Generation](zotero://select/library/items/EDGHTT2W)
