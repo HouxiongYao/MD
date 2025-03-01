@@ -4,7 +4,7 @@
 
 29438次引用，*Proceedings of the 38th International Conference on Machine Learning*, PMLR 139:8748-8763, 2021.
 
-摘要部分提到，现有的计算机视觉系统通常通过预定义的固定类别进行监督训练，限制了其泛化能力。CLIP通过从自然语言监督中学习，使用4亿个（图像，文本）对进行预训练，实现了零样本迁移到多种下游任务，效果与全监督模型相当。
+摘要部分提到，现有的计算机视觉系统通常通过预定义的固定类别进行监督训练，限制了其泛化能力。CLIP通过从自然语言监督中学习，使用4亿个（图像，文本）对进行预训练，实现了零样本迁移到多种下游任务，效果与全监督模型相当。Contrastive Language Image Pre-training，CLIP。
 
 ![image-20250226152948794](https://houxiong-pictures.oss-cn-beijing.aliyuncs.com/image-20250226152948794.png)
 
@@ -56,8 +56,6 @@
 ![image-20250227115502197](https://houxiong-pictures.oss-cn-beijing.aliyuncs.com/image-20250227115502197.png)
 
 # Prompt Engineering
-
-
 
 **Issue：**
 

@@ -1,5 +1,7 @@
 # [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](zotero://select/library/items/JYX2XMMM)
 
+NeurIPS，2718次
+
 <img src="https://houxiong-pictures.oss-cn-beijing.aliyuncs.com/image-20250227170757594.png" alt="image-20250227170757594"  />
 
 ## 模型架构
