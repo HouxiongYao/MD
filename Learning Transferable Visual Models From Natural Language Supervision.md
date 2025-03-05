@@ -1,3 +1,4 @@
+
 # [Learning Transferable Visual Models From Natural Language Supervision](zotero://select/library/items/V25MS4S3)
 
 
